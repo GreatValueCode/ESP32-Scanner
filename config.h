@@ -30,6 +30,6 @@
 
 // Settings Default Values
 #define DEFAULT_BRIGHTNESS 80
-#define DEFAULT_SLEEP_TIMER 30000  // 5 minutes in milliseconds (0 = disabled)
+#define DEFAULT_SLEEP_TIMER 60000  // 1 minute in milliseconds (0 = disabled)
 
 #endif // CONFIG_H
